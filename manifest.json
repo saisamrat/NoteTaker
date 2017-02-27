@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 
-	"name":"MyNotes",
+	"name":"Take Note",
 	"description": "select text and right click and select TakeNote to add to Notes",
 	"version": "1.0",
 
